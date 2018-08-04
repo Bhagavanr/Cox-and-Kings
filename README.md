@@ -1,0 +1,2 @@
+# Cox-and-Kings
+Travel ERP is a Booking Engine which can be prepared as an atomic place for doing bookings of Air and Non-Air transportation, Hotels, Sightseeing, cruise like totally 10 modules. It’s a fully automated booking system where the user can get the details of availability and fares from online mechanism through GDS and Private Database. The system provides the facility to setup the product, company, client and supplier based on the contract policies and also concentrates different business models like B2B, B2C etc.
